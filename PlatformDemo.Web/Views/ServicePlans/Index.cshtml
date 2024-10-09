@@ -1,0 +1,46 @@
+﻿@model IEnumerable<PlatformDemo.Web.ViewModels.ServicePlanViewModel>
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Service Plans";
+}
+
+<h1 class="mt-4">@ViewData["Title"]</h1>
+
+<div class="table-responsive">
+    <table id="servicePlansTable" class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Service Plan ID</th>
+                <th>Date of Purchase</th>
+                <th>Timesheet Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ServicePlanId</td>
+                        <td>@item.DateOfPurchase.ToShortDateString()</td>
+                        <td>@item.TimesheetCount</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center">No service plans available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#servicePlansTable').DataTable(); // Initialize DataTable on the specific table
+    });
+</script>

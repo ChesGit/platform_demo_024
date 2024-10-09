@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PlatformDemo.Data",
+    "\\PlatformDemo.Web",
+    "\\PlatformDemo.Web\\Controllers",
+    "\\PlatformDemo.Web\\Views",
+    "\\PlatformDemo.Web\\Views\\Shared"
+  ],
+  "SelectedNode": "\\PlatformDemo.Web\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

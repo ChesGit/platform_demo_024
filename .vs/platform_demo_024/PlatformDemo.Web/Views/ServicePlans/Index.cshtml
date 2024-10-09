@@ -1,0 +1,23 @@
+﻿@model IEnumerable<PlatformDemo.Web.ViewModels.ServicePlanViewModel>
+
+<h2>Service Plans</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Service Plan ID</th>
+            <th>Date of Purchase</th>
+            <th>Timesheet Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ServicePlanId</td>
+                <td>@item.DateOfPurchase.ToShortDateString()</td>
+                <td>@item.TimesheetCount</td>
+            </tr>
+        }
+    </tbody>
+</table>

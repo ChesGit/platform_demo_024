@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\platform_demo_024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{471F42DE-D697-46D0-8233-C17F6C32E129}|PlatformDemo.Web\\PlatformDemo.Web.csproj|e:\\github\\platform_demo_024\\platformdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471F42DE-D697-46D0-8233-C17F6C32E129}|PlatformDemo.Web\\PlatformDemo.Web.csproj|solutionrelative:platformdemo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A53B2E6-5DB2-46E7-B799-0E8D7FD7ADA0}|PlatformDemo.Data\\PlatformDemo.Data.csproj|e:\\github\\platform_demo_024\\platformdemo.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A53B2E6-5DB2-46E7-B799-0E8D7FD7ADA0}|PlatformDemo.Data\\PlatformDemo.Data.csproj|solutionrelative:platformdemo.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471F42DE-D697-46D0-8233-C17F6C32E129}|PlatformDemo.Web\\PlatformDemo.Web.csproj|e:\\github\\platform_demo_024\\platformdemo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{471F42DE-D697-46D0-8233-C17F6C32E129}|PlatformDemo.Web\\PlatformDemo.Web.csproj|solutionrelative:platformdemo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471F42DE-D697-46D0-8233-C17F6C32E129}|PlatformDemo.Web\\PlatformDemo.Web.csproj|e:\\github\\platform_demo_024\\platformdemo.web\\views\\serviceplans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{471F42DE-D697-46D0-8233-C17F6C32E129}|PlatformDemo.Web\\PlatformDemo.Web.csproj|solutionrelative:platformdemo.web\\views\\serviceplans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlatformDemo.Data\\AppDbContext.cs",
+              "ToolTip": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Data\\AppDbContext.cs",
+              "RelativeToolTip": "PlatformDemo.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:26:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Web\\Views\\ServicePlans\\Index.cshtml",
+              "RelativeDocumentMoniker": "PlatformDemo.Web\\Views\\ServicePlans\\Index.cshtml",
+              "ToolTip": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Web\\Views\\ServicePlans\\Index.cshtml",
+              "RelativeToolTip": "PlatformDemo.Web\\Views\\ServicePlans\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:26:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "PlatformDemo.Web\\Program.cs",
+              "ToolTip": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Web\\Program.cs",
+              "RelativeToolTip": "PlatformDemo.Web\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:26:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PlatformDemo.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\GitHub\\platform_demo_024\\PlatformDemo.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PlatformDemo.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T15:15:11.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

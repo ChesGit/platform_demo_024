@@ -1,0 +1,13 @@
+E:\GitHub\platform_demo_024\PlatformDemo.Data\bin\Debug\net8.0\PlatformDemo.Library.deps.json
+E:\GitHub\platform_demo_024\PlatformDemo.Data\bin\Debug\net8.0\PlatformDemo.Library.dll
+E:\GitHub\platform_demo_024\PlatformDemo.Data\bin\Debug\net8.0\PlatformDemo.Library.pdb
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.csproj.AssemblyReference.cache
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.AssemblyInfoInputs.cache
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.AssemblyInfo.cs
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.csproj.CoreCompileInputs.cache
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.sourcelink.json
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.dll
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\refint\PlatformDemo.Library.dll
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\PlatformDemo.Library.pdb
+E:\GitHub\platform_demo_024\PlatformDemo.Data\obj\Debug\net8.0\ref\PlatformDemo.Library.dll
